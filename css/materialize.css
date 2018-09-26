@@ -4484,7 +4484,7 @@ html {
 h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
   line-height: 1.1;
-    //  text-shadow: -0.5px 0 white, 0 0.5px white, 0.5px 0 white, 0 -0.5px white;
+    text-shadow: -0.5px 0 white, 0 0.5px white, 0.5px 0 white, 0 -0.5px white;
 }
 
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -4519,6 +4519,7 @@ h5 {
   font-size: 1.64rem;
   line-height: 110%;
   margin: 0.82rem 0 0.656rem 0;
+ text-shadow: -0.5px 0 white, 0 0.5px white, 0.5px 0 white, 0 -0.5px white;
 }
 
 h6 {
